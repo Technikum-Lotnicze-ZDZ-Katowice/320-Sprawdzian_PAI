@@ -4,8 +4,10 @@ Przygotuj skrypt zliczający znaki wpisywane do pola tekstowego a następnie zai
 
 Skala Ocen:
 
-2. Zliczanie znaków
-3. Wypisanie zawartości textarea w osobnym div
-4. Znalezienie pozycji frazy
-5. Zaznaczenie znalezionej frazy
-6. Zaznaczenie znalezionej frazy w tym samym "oknie/elemencie". (tylko jeden element edytora z wpisywaniem i zaznaczeniem)
+2 - Zliczanie znaków
+3 - Wypisanie zawartości textarea w osobnym div
+4 - Znalezienie pozycji frazy
+5 - Zaznaczenie znalezionej frazy
+6 - Zaznaczenie znalezionej frazy w tym samym "oknie/elemencie". (tylko jeden element edytora z wpisywaniem i zaznaczeniem)
+
+![Spr2](Spr_2.png)
