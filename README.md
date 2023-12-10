@@ -1,2 +1,11 @@
 # 320-Sprawdzian_PAI
-320-Sprawdzian PAI
+
+Przygotuj skrypt zliczający znaki wpisywane do pola tekstowego a następnie zaimplementuj wyszukiwanie frazy.
+
+Skala Ocen:
+
+- 2. Zliczanie znaków
+- 3. Wypisanie zawartości textarea w osobnym div
+- 4. Znalezienie pozycji frazy
+- 5. Zaznaczenie znalezionej frazy
+- 6. Zaznaczenie znalezionej frazy w tym samym "oknie/elemencie". (tylko jeden element edytora z wpisywaniem i zaznaczeniem)
