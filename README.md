@@ -1,3 +1,5 @@
+https://www.youtube.com/shorts/aXcuz6fn8_w
+
 # 320-Sprawdzian_PAI
 
 Przygotuj skrypt zliczający znaki wpisywane do pola tekstowego a następnie zaimplementuj wyszukiwanie frazy.
