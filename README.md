@@ -8,14 +8,18 @@ Skala Ocen:
 
 2 - Zliczanie znaków
 
-3 - zlczanie słów
+3 - Wypisanie zawartości textarea w osobnym div
 
-4 - Wypisanie zawartości textarea w osobnym div
+4 - Znalezienie pozycji frazy
 
-5 - Znalezienie pozycji frazy
+5 - Zaznaczenie znalezionej frazy
 
-6 - Zaznaczenie znalezionej frazy
-
-7 - Zaznaczenie znalezionej frazy w tym samym "oknie/elemencie". (tylko jeden element edytora z wpisywaniem i zaznaczeniem)
+6 - Zaznaczenie znalezionej frazy w tym samym "oknie/elemencie". (tylko jeden element edytora z wpisywaniem i zaznaczeniem)
 
 ![Spr2](Spr_2.png)
+
+DODATKOWO:
+
+- zliczanie słów
+  
+- ustaw limit słów po przekroxczeniu którego obramowanie pola tekstwego zmieni się na czerwone
